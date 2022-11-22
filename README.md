@@ -46,3 +46,4 @@ https://www.linuxbabe.com/ecommerce/install-magento-ubuntu-server-nginx
 
 # boot compaq
 https://diolinux.com.br/tutoriais/instalar-balena-etcher-linux.html
+https://www.balena.io/etcher/
