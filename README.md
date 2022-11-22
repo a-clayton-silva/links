@@ -28,3 +28,19 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 
 # kubernete install e commands
 https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubernetes-a-kubectl-cheat-sheet-pt
+
+# install vscode
+https://linuxhint.com/install-visual-studio-code-ubuntu22-04/
+
+# install cli aws
+https://docs.aws.amazon.com/pt_br/cli/latest/userguide/getting-started-install.html
+
+# configure credentials aws
+https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-quickstart.html
+
+# aws builder trainning
+https://explore.skillbuilder.aws/learn/signin
+
+# install magento
+https://www.linuxbabe.com/ecommerce/install-magento-ubuntu-server-nginx
+
