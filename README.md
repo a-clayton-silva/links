@@ -44,3 +44,5 @@ https://explore.skillbuilder.aws/learn/signin
 # install magento
 https://www.linuxbabe.com/ecommerce/install-magento-ubuntu-server-nginx
 
+# boot compaq
+https://diolinux.com.br/tutoriais/instalar-balena-etcher-linux.html
