@@ -35,6 +35,7 @@ https://linuxhint.com/install-visual-studio-code-ubuntu22-04/
 
 # install cli aws
 https://docs.aws.amazon.com/pt_br/cli/latest/userguide/getting-started-install.html
+aws configure --profile "terraform"
 
 # configure credentials aws
 https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-configure-quickstart.html
