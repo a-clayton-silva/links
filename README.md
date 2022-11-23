@@ -25,6 +25,7 @@ https://comandosgit.github.io/
  
 # ssh github
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://www.youtube.com/watch?v=7YVQLZp1jb0
 
 # kubernete install e commands
 https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubernetes-a-kubectl-cheat-sheet-pt
